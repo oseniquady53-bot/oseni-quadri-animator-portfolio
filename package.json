@@ -1,0 +1,19 @@
+{
+  "name": "oseni-quadri-animator-portfolio",
+  "version": "1.0.0",
+  "description": "Official freelance animation and visual artist portfolio for Oseni Quadri (Quady)",
+  "author": "Oseni Quadri (Quady) <oseniquady53@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [
+    "animator",
+    "portfolio",
+    "2d-animation",
+    "3d-animation",
+    "anime",
+    "music-videos"
+  ]
+}
